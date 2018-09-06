@@ -53,7 +53,6 @@ padding-left: 35px;
    <p style="color: blue"> 
     <a href="https://soundcloud.com/ikukojohanna" class="underlined">Iku</a>
         
-       <br>
        <a href="mailto:johanna.odersky@gmail.com" class="underlined" target="_top">Contact</a>
      
    </p>
@@ -64,7 +63,7 @@ padding-left: 35px;
    <br>
    <img src="images/image1.jpg" width="1000"class="center">
 <br>
-   <img src="images/image3.png" width="500" class="center">
+   <img src="images/image3.jpg" width="500" class="center">
 
    <br>
  
