@@ -53,7 +53,7 @@ padding-left: 35px;
 
 <body>
 
-<div>
+
 
    <h1>Johanna Odersky</h1>
    <p style="color: blue"> 
@@ -65,7 +65,7 @@ padding-left: 35px;
    </p>
 
    <img src="images/image2.jpg" width="500"class="center">
-</div>
+
 
    <br>
    <img src="images/image1.jpg" width="1000"class="center">
