@@ -1,4 +1,4 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <title> 
@@ -14,11 +14,10 @@ Johanna Odersky
             
             font-family: 'EB Garamond', serif;
             padding-top: 60px;
+
            padding-left: 50px; 
             }
-img 
-{       
-padding-top: 15px;
+img {            padding-top: 15px;
 }
        .center {
     display: block;
@@ -26,12 +25,14 @@ padding-top: 15px;
     margin-right: auto;
     width: 50%;
 }
+
 h1{
     font-style:initial;
 font-size:17px;  
 position:fixed;
 padding-left: 35px; 
   }
+
    .underlined {
         text-decoration: underline;
         color:blue;
@@ -41,6 +42,7 @@ p {
     font-size: 15px;
     color: blue;
     position:fixed;
+
 padding-left: 35px; 
  
 }    
@@ -55,7 +57,8 @@ padding-left: 35px;
    <p style="color: blue"> 
     <a href="https://soundcloud.com/ikukojohanna" class="underlined">Iku</a>
         
-       <a href="mailto:johanna.odersky@gmail.com" class="underlined" target="_top">Contact</a>
+       <br>
+       <a href="mailto:johanna.odersky@gmail.com"  class="underlined" target="_top">Contact</a>
      
    </p>
 
@@ -65,7 +68,7 @@ padding-left: 35px;
    <br>
    <img src="images/image1.jpg" width="1000"class="center">
 <br>
-   <img src="images/image3.jpg" width="500" class="center">
+   <img src="images/image3.png" width="500" class="center">
 
    <br>
  
@@ -77,10 +80,6 @@ padding-left: 35px;
    <br>
    <img src="images/image4.jpg" width="500" class="center">
    <br>
-  
-
-
-
-
 
 </body>
+
