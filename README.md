@@ -16,7 +16,9 @@ Johanna Odersky
             padding-top: 60px;
            padding-left: 50px; 
             }
-img {            padding-top: 15px;
+img 
+{       
+padding-top: 15px;
 }
        .center {
     display: block;
